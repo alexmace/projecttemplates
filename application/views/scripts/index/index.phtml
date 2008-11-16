@@ -1,0 +1,33 @@
+<h1>Welcome to Traction</h1>
+
+<!--
+<ul>
+  <li>Create Report</li>
+  <li>View Existing Report</li>
+  <li>User Management</li>
+  <li>Client Management</li>
+  <li>Client Code Management</li>
+</ul>
+-->
+
+<table id="clientCodeStats">
+  <tr>
+    <th>Client Code</th>
+    <th>Number of<br />Payments</th>
+    <th>Payments<br />Total</th>
+    <th>Post Office<br />Payments</th>
+    <th>PayPoint<br />Payments</th>
+    <th>PayZone<br />Payments</th>
+    <th>ePay<br />Payments</th>
+    <th>Terminal Debit<br />Payments</th>
+    <th>Terminal Credit<br />Payments</th>
+    <th>Terminal Cash<br />Payments</th>
+    <th>Woolworths<br />Payments</th>
+    <th>Direct Debit<br />Payments</th>
+    <th>Cheque<br />Payments</th>
+    <th>Cash<br />Payments</th>
+  </tr>
+
+  <?php echo $this->partialLoop( '_clientcodeinfo.phtml', $this->clientCodes ) ?>
+
+</table>

@@ -1,0 +1,9 @@
+ 445158F001694             50.00P05/12/2007
+ 641034F014940             20.00P05/12/2007
+ 907347G165077             30.00P05/12/2007
+
+
+Total Amount Updated onto System:            100.00
+Total Transactions updated onto System:                 3
+File creation date : 06/12/2007
+

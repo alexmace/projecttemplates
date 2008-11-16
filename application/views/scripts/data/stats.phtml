@@ -1,0 +1,99 @@
+<?php
+    if ( isset( $this->fileStatsForm ) ) 
+    {
+        
+        $this->headLink( )->appendStylesheet( '/styles/Autocompleter.css' );
+        $this->headScript( )->appendFile( '/scripts/Autocompleter.js' )
+                            ->appendFile( '/scripts/Autocompleter.Local.js' )
+                            ->appendFile( '/scripts/Autocompleter.Request.js' )
+                            ->appendFile( '/scripts/Observer.js' )
+                            ->appendFile( '/scripts/FileAutocompleter.js' )
+                            ->captureStart( );
+?>
+ /*       window.addEvent( 'domready', function( ) {
+    
+            new FileAutocompleter.Request.JSON( 'fileName', '/data/filesearch', {
+                'postVar': 'search'
+            } );
+        
+        } ); */
+<?php
+        $this->headScript( )->captureEnd( );
+        
+        echo $this->fileStatsForm;
+?>
+  
+  Display last ten files imported...
+  
+  <ul>
+    <?php echo $this->partialLoop( '_recentimported.phtml', $this->recentImported ) ?>
+  </ul>
+  
+<?php      
+    }
+    else 
+    {
+?>       
+        <h1><?php echo $this->escape( $this->fileName ) ?> Statistics</h1>
+        
+        <table id="fileStats">
+          <tr class="odd">
+            <th>&nbsp;</th>
+            <th>File</th>
+            <th>Actual</th>
+            <th>&pound;<?php echo $this->escape( number_format( $this->newCap, 2, '.', '' ) ) ?> Cap</th>
+            <th>Overcapping</th>
+          </tr>
+          <tr class="even">
+            <th>Payments</th>
+            <td><?php echo $this->escape( $this->stats['paymentsCount'] ) ?></td>
+            <td><?php echo $this->escape( $this->stats['actualPaymentsCount'] ) ?></td>
+            <td><?php echo $this->escape( $this->stats['cappedPaymentsCount'] ) ?></td>
+            <td></td>
+          </tr>
+          <tr class="odd">
+            <th>Difference</th>
+            <td><?php echo $this->escape( $this->stats['difference'] ) ?></td>
+            <td>0</td>
+            <td><?php echo $this->escape( $this->stats['cappedDifference'] ) ?></td>
+            <td><?php echo $this->escape( $this->stats['difference'] - $this->stats['cappedDifference'] ) ?></td>
+          </tr>
+          <tr class="even">
+            <th>Percentage Increase</th>
+            <td><?php echo $this->escape( $this->stats['percentageIncrease'] ) ?>%</td>
+            <td>0.00%</td>
+            <td><?php echo $this->escape( $this->stats['cappedPercentageIncrease'] ) ?>%</td>
+            <td><?php echo $this->escape( $this->stats['percentageIncrease'] - $this->stats['cappedPercentageIncrease'] ) ?>%</td>
+          </tr>
+          <tr class="odd">
+            <th>Transaction Total</th>
+            <td>&pound;<?php echo $this->escape( $this->stats['total'] ) ?></td>
+            <td>&pound;<?php echo $this->escape( $this->stats['total'] ) ?></td>
+            <td>&pound;<?php echo $this->escape( $this->stats['total'] ) ?></td>
+            <td></td>
+          </tr>
+        </table>
+        
+        <?php echo $this->fileCapForm ?>
+        
+        <h1>Transactions</h1>
+        
+        <table id="transactions">
+        
+          <tr>
+          
+            <th>Reference</th>
+            <th>Date</th>
+            <th>File</th>
+            <th>Actual</th>
+            <th>&pound;<?php echo $this->escape( number_format( $this->newCap, 2, '.', '' ) ) ?> Cap</th>
+            
+          </tr>
+          
+<?php echo $this->partialLoop( '_paymentsinfo.phtml', $this->stats['payments'] ) ?>
+          
+        </table>
+        
+<?php        
+    }
+?>

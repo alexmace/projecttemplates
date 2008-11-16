@@ -1,0 +1,10 @@
+ 167220BSC-FLO001          14.26P24/12/2007
+ 040435DPHO001             14.00P24/12/2007
+ 040451DPPE001             14.26P24/12/2007
+ 245398DPST004              1.40P24/12/2007
+
+
+Total Amount Updated onto System:             43.92
+Total Transactions updated onto System:                 4
+File creation date : 27/12/2007
+

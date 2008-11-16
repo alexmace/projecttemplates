@@ -1,0 +1,12 @@
+ 044385BCS-IRV001          28.52P26/11/2007
+ 167220BSC-FLO001          14.26P26/11/2007
+ 040435DPHO001             14.00P26/11/2007
+ 040451DPPE001             14.26P26/11/2007
+ 245398DPST004              1.40P26/11/2007
+ 245427DPWA001              4.46P26/11/2007
+
+
+Total Amount Updated onto System:             76.90
+Total Transactions updated onto System:                 6
+File creation date : 27/11/2007
+

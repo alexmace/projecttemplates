@@ -1,0 +1,10 @@
+9826903726244954910GBO001             150.00P31/10/2007
+9826903726244954910GBO001             150.00P31/10/2007
+9826903726244966419HAD001              80.00P31/10/2007
+9826903726245072597OBA001              74.00P31/10/2007
+
+
+Total Amount Updated onto System:            454.00
+Total Transactions updated onto System:                 4
+File creation date : 01/11/2007
+

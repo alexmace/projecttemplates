@@ -1,0 +1,9 @@
+9826903726244989890HYL001              50.00P14/12/2007
+9826903726245038143MAT008               4.00P14/12/2007
+9826903726245043739MCG012               6.00P14/12/2007
+
+
+Total Amount Updated onto System:             60.00
+Total Transactions updated onto System:                 3
+File creation date : 15/12/2007
+

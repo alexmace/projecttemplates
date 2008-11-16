@@ -1,0 +1,25 @@
+<div id="login">
+
+  <h1>Argonaut21 Traction</h1>
+
+<?php
+    if ( isset( $this->failedAuthentication ) )
+    {
+?>
+  <h2 class="error">Sorry, Authentication Failed. Please Try Again...</h2>
+<?php
+    }
+    else
+    {
+?>
+  <h2>First, Please Sign In...</h2>
+<?php
+    }
+
+    echo $this->loginForm
+?>
+
+</div>
+
+<div id="copyright">&copy; <?php echo date( 'Y' )?> Argonaut21</div>
+

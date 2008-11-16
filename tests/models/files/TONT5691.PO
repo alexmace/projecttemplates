@@ -1,0 +1,10 @@
+ 945551G056243             70.00P10/12/2007
+ 017037G064360             24.50P10/12/2007
+ 192719G126071             85.00P10/12/2007
+ 911719L842427             95.88P10/12/2007
+
+
+Total Amount Updated onto System:            275.38
+Total Transactions updated onto System:                 4
+File creation date : 11/12/2007
+

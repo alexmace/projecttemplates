@@ -1,0 +1,9 @@
+ 103042G262722             95.00P28/11/2007
+ 103080G265683            350.00P28/11/2007
+ 103080G265683            350.00P28/11/2007
+
+
+Total Amount Updated onto System:            795.00
+Total Transactions updated onto System:                 3
+File creation date : 29/11/2007
+

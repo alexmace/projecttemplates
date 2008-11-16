@@ -1,0 +1,10 @@
+ 278340DAL013/01           73.00P26/11/2007
+ 589420MOR018/01          150.00P26/11/2007
+ 589420MOR018/01          120.00P26/11/2007
+ 589420MOR018/01          110.00P26/11/2007
+
+
+Total Amount Updated onto System:            453.00
+Total Transactions updated onto System:                 4
+File creation date : 27/11/2007
+

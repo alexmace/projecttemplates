@@ -1,0 +1,10 @@
+ 821086G139203             25.00P16/01/2008
+ 484799G230944             86.16P16/01/2008
+ 254636L548065             50.00P16/01/2008
+ 945708L864110            190.00P16/01/2008
+
+
+Total Amount Updated onto System:            351.16
+Total Transactions updated onto System:                 4
+File creation date : 17/01/2008
+

@@ -1,0 +1,9 @@
+ 603790W000175             20.96P02/01/2008
+ 603864W001139              3.00P02/01/2008
+ 605926W025909             10.00P02/01/2008
+
+
+Total Amount Updated onto System:             33.96
+Total Transactions updated onto System:                 3
+File creation date : 03/01/2008
+

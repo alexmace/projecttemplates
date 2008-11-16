@@ -1,0 +1,10 @@
+ 466225L812790            150.00P31/10/2007
+ 912654L854557             40.00P31/10/2007
+ 835012L854840            150.00P31/10/2007
+ 835012L854840            150.00P31/10/2007
+
+
+Total Amount Updated onto System:            490.00
+Total Transactions updated onto System:                 4
+File creation date : 01/11/2007
+

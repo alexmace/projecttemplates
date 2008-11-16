@@ -1,0 +1,11 @@
+ 389315LQS-KIN065           1.54P03/12/2007
+ 538901LQS-MAR054           1.54P03/12/2007
+ 825515LQS - DRE003        20.00P03/12/2007
+ 776824LQSFOR009           69.50P03/12/2007
+ 588868NC0063              17.87P03/12/2007
+
+
+Total Amount Updated onto System:            110.45
+Total Transactions updated onto System:                 5
+File creation date : 04/12/2007
+

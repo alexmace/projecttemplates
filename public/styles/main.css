@@ -1,0 +1,183 @@
+html, body {
+    background-color: #FFFFBB;
+    min-height: 100%;
+    margin: 0em;
+    padding: 0em;
+}
+
+body {
+	font-size: 62.5%; /* Resets 1em to 10px */
+	line-height: 150%;
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	color: #333;
+}
+
+form p {
+    clear: both;
+    padding: 0.5em 0em;
+}
+
+form p label {
+    float: left;
+    padding: 0.5em 0em;
+}
+
+form p input,
+form p select, {
+    float: left;
+    padding: 0.3em;
+}
+
+form .buttons {
+    text-align: right;
+}
+
+table, tr, th, td {
+	border-collapse: collapse;
+    margin: 0px;
+    padding: 0px;	
+}
+
+th, td {
+    padding: 0.1em 0.3em;	
+}
+
+#page {
+    background-color: #FFFFFF;
+    height: 100%;
+    margin: 0em auto;
+    padding: 1em;
+    width: 88em;
+}
+
+#header {
+
+}
+
+#header #account_links {
+    margin: 0em 0em 1em;
+    text-align: right;
+}
+
+#header #account_links li {
+    display: inline;
+    font-size: 120%;
+    padding: 0em 0em 0em 1em;
+}
+
+#login {
+    background-color: #FFFFFF;
+    border: #333333 0.5em solid;
+    font-size: 120%;
+    left: 50%;
+    margin: 0em 0em 0em -20em;
+    padding: 1em 1.5em;
+    position: absolute;
+    top: 15em;
+    width: 37em;
+}
+
+#login h1 {
+    text-align: center;
+    padding: 0em;
+    margin: 0.5em 0em;
+}
+
+#login h2 {
+    background-color: #93fb93;
+    line-height: 150%;
+    margin: 0.5em 0em;
+    padding: 0.5em;
+}
+
+#login .error {
+    background-color: #fb9393;
+}
+
+#login form p {
+    margin: 0em 5.3em;
+}
+
+#login form p label {
+    width: 8em;
+}
+
+#login form p input {
+    width: 16em;
+}
+
+#copyright {
+    position: absolute;
+    text-align: center;
+    left: 0em;
+    bottom: 0em;
+    width: 100%;
+    padding: 1em 0em;
+    font-size: 120%;
+}
+
+#clientCodeStats td {
+    text-align: right;
+}
+
+#clientCodeStats .clientCode {
+    text-align: left;
+}
+
+#fileStats {
+	border-bottom: #999999 2px solid;
+    font-size: 120%;
+    margin: 0px auto 1em;	
+}
+
+#fileStats tr {
+    border-top: #999999 2px solid;
+}
+
+#fileStats tr.even {
+    background-color: #FFFFEE;	
+}
+
+#fileStats th,
+#fileStats td {
+    padding: 4px 10px;
+}
+
+#fileStats th {
+    text-align: left;	
+}
+
+#fileStats td {
+    text-align: right;
+}
+
+#importReport th { 
+    text-align: left;
+}
+
+#importReport .success {
+    background-color: #93fb93;
+}
+
+#importReport .failed {
+    background-color: #fb9393;	
+}
+
+#transactions {
+	border-bottom: #999999 2px solid;
+	font-size: 120%;
+    margin: 0px auto;
+}
+
+#transactions tr {
+    border-top: #999999 2px solid;
+}
+
+#transactions th,
+#transactions td {
+    padding: 4px 10px;
+}
+
+#transactions .amount {
+    text-align: right;
+}

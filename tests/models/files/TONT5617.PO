@@ -1,0 +1,11 @@
+ 024348G065447            350.00P09/11/2007
+ 024348G065447             40.00P09/11/2007
+ 243100G227765             90.91P09/11/2007
+ 484799G230944             76.16P09/11/2007
+ 466225L812790            150.00P09/11/2007
+
+
+Total Amount Updated onto System:            707.07
+Total Transactions updated onto System:                 5
+File creation date : 10/11/2007
+

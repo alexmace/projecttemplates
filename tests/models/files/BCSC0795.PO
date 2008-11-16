@@ -1,0 +1,12 @@
+ 941109BCS-SHE001          28.52P05/11/2007
+ 167220BSC-FLO001          14.26P05/11/2007
+ 040435DPHO001             14.00P05/11/2007
+ 245414DPMC002             14.26P05/11/2007
+ 040451DPPE001             14.26P05/11/2007
+ 245427DPWA001              4.46P05/11/2007
+
+
+Total Amount Updated onto System:             89.76
+Total Transactions updated onto System:                 6
+File creation date : 06/11/2007
+

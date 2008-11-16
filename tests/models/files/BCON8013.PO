@@ -1,0 +1,8 @@
+ 794038H020622            200.00P09/12/2007
+ 608612H020698             20.00P09/12/2007
+ 608602H020702             25.00P09/12/2007
+
+
+Total Amount Updated onto System:            245.00
+Total Transactions updated onto System:                 3
+

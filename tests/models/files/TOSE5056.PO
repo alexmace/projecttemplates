@@ -1,0 +1,10 @@
+ 091802G071170            284.04P26/11/2007
+ 329647G097055             50.00P26/11/2007
+ 502525G173363            350.00P26/11/2007
+ 502525G173363             30.00P26/11/2007
+
+
+Total Amount Updated onto System:            714.04
+Total Transactions updated onto System:                 4
+File creation date : 27/11/2007
+

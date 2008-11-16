@@ -1,0 +1,11 @@
+ 040887G152072             40.00P30/11/2007
+ 278657G162051             40.00P30/11/2007
+ 814582G184993            320.00P30/11/2007
+ 445185G202150            100.00P30/11/2007
+ 445185G202150             40.00P30/11/2007
+
+
+Total Amount Updated onto System:            540.00
+Total Transactions updated onto System:                 5
+File creation date : 01/12/2007
+

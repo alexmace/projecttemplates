@@ -1,0 +1,10 @@
+ 509497NB0042              82.98P04/12/2007
+ 509517NB0062              13.80P29/11/2007
+ 509929NS0049              51.38P03/12/2007
+ 509989NW0030              14.53P04/12/2007
+
+
+Total Amount Updated onto System:            162.69
+Total Transactions updated onto System:                 4
+File creation date : 05/12/2007
+

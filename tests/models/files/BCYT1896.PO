@@ -1,0 +1,10 @@
+ 278340H020284             73.00P17/12/2007
+ 396874H020667            150.00P17/12/2007
+ 396874H020667            150.00P17/12/2007
+ 396874H020667             20.00P17/12/2007
+
+
+Total Amount Updated onto System:            393.00
+Total Transactions updated onto System:                 4
+File creation date : 18/12/2007
+

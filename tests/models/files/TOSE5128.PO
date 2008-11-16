@@ -1,0 +1,9 @@
+ 495776G088820             10.00P03/01/2008
+ 451524G181030            350.00P03/01/2008
+ 451524G181030            102.60P03/01/2008
+
+
+Total Amount Updated onto System:            462.60
+Total Transactions updated onto System:                 3
+File creation date : 04/01/2008
+

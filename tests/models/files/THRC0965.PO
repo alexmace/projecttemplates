@@ -1,0 +1,10 @@
+9826903726244937238ELW001              95.00P01/12/2007
+9826903726245032617MAN007             150.00P01/12/2007
+9826903726245032617MAN007              98.64P01/12/2007
+9826903726245104119REI014              80.00P01/12/2007
+
+
+Total Amount Updated onto System:            423.64
+Total Transactions updated onto System:                 4
+File creation date : 03/12/2007
+

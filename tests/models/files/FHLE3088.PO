@@ -1,0 +1,9 @@
+ 640977F009113            150.00P06/11/2007
+ 640977F009113             50.00P06/11/2007
+ 641034F014940             20.00P06/11/2007
+
+
+Total Amount Updated onto System:            220.00
+Total Transactions updated onto System:                 3
+File creation date : 07/11/2007
+

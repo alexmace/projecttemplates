@@ -1,0 +1,10 @@
+9826903726244848211ALI029              20.00P19/12/2007
+9826903726244910623COX003             150.00P19/12/2007
+9826903726244910623COX003             150.00P19/12/2007
+9826903726245064495NAK001              92.00P19/12/2007
+
+
+Total Amount Updated onto System:            412.00
+Total Transactions updated onto System:                 4
+File creation date : 20/12/2007
+

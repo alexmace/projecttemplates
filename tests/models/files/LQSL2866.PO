@@ -1,0 +1,9 @@
+ 996818LQS-COH001          15.00P02/01/2008
+ 509929NS0049              51.38P02/01/2008
+ 509991NW0032              57.80P02/01/2008
+
+
+Total Amount Updated onto System:            124.18
+Total Transactions updated onto System:                 3
+File creation date : 03/01/2008
+

@@ -1,0 +1,9 @@
+9826903726244851868AND008              10.00P21/12/2007
+9826903726245038143MAT008               4.00P21/12/2007
+9826903726245082802OWE002              80.00P21/12/2007
+
+
+Total Amount Updated onto System:             94.00
+Total Transactions updated onto System:                 3
+File creation date : 22/12/2007
+

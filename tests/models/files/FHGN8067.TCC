@@ -1,0 +1,7 @@
+ 606043F001309            200.00N22/11/2007
+
+
+Total Amount Updated onto System:            200.00
+Total Transactions updated onto System:                 1
+File creation date : 23/11/2007
+

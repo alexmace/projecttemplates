@@ -1,0 +1,9 @@
+ 046044L500437            350.00P20/12/2007
+ 046044L500437             17.63P20/12/2007
+ 466225L812790            150.00P20/12/2007
+
+
+Total Amount Updated onto System:            517.63
+Total Transactions updated onto System:                 3
+File creation date : 21/12/2007
+

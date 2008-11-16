@@ -1,0 +1,108 @@
+<?php
+    $this->headScript( )->appendFile( '/scripts/Swiff.Uploader.js' )
+                        ->appendFile( '/scripts/Fx.ProgressBar.js' )
+                        ->appendFile( '/scripts/FancyUpload2.js' )
+                        ->captureStart( );
+?>
+    window.addEvent( 'domready', function( ) {
+    
+        var importKeyData = 'importKey=' + $( 'upload' ).importKey.get( 'value' );
+        
+        var fancyUpload = new FancyUpload2( 'status', 'list', {
+            data: importKeyData,
+            onAllComplete: function( ) {
+            
+                // If there were no errors, change the action on the form to 
+                // send the user onto /data/process, where the files will be 
+                // added to the queue for import.
+                var upload = $( 'upload' );
+                upload.setProperty( 'action', '/data/process' );
+                upload.submit( );
+            
+            },
+            onLoad: function( ) {
+            
+                // Destroy the fallback form and remove the hidden class from 
+                // the status div
+                $( 'upload' ).setStyle( 'display', 'none' );
+            
+            },
+            path: '/scripts/Swiff.Uploader.swf',
+            url: $( 'upload' ).getProperty( 'action' )
+        } );
+        
+        $( "demo-browse-all" ).addEvent( 'click', function( e ) {
+        
+            e = new Event( e );
+            e.stop( );
+            
+            fancyUpload.browse( { 
+                'Payment File Archives': '*.zip',
+                'Payment Files': '*.CQE; *.CSH; *.DD; *.EPY; *.PO; *.PP; *.PZ; *.TC; *.TCC; *.TDC, *.WO' 
+            } );
+        
+        } );
+        
+        $( "demo-clear" ).addEvent( 'click', function( e ) {
+        
+            e = new Event( e );
+            e.stop( );
+            
+            fancyUpload.removeFile( );
+        
+        } );
+        
+        $( "demo-upload" ).addEvent( 'click', function( e ) {
+        
+            e = new Event( e );
+            e.stop( );
+            
+            fancyUpload.upload( );
+        
+        } );
+        
+    } );
+<?php
+    $this->headScript( )->captureEnd( );
+?>
+
+
+Hello this is where we will be importing a file.
+
+We will need
+
+File input box - this will be replaced by FancyUpload
+
+Area for list of files that will be uploaded
+
+Progress bar display
+
+A little bit of info - hideable.
+
+<?php echo $this->uploadForm ?>
+
+<div id="status">  
+
+  <p>
+    <a href="#" id="demo-browse-all">Browse Files</a>
+    <a href="#" id="demo-clear">Clear List</a> |
+    <button id="demo-upload">Upload</button>
+  </p>
+  
+  <div>
+    <strong class="overall-title">Overall progress</strong><br />
+    <img src="../../assets/progress-bar/bar.gif" class="progress overall-progress" />
+  </div>
+
+  <div>
+    <strong class="current-title">File Progress</strong><br />
+    <img src="../../assets/progress-bar/bar.gif" class="progress current-progress" />
+  </div>
+  
+  <div class="current-text"></div>
+  
+</div>
+
+<ul id="list">
+
+</ul>

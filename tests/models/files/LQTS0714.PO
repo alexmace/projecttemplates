@@ -1,0 +1,11 @@
+ 990444H020745            110.00P11/01/2008
+ 103080H021008            350.00P11/01/2008
+ 103080H021008            350.00P11/01/2008
+ 103080H021008            250.00P11/01/2008
+ 103080H021008             50.00P11/01/2008
+
+
+Total Amount Updated onto System:           1110.00
+Total Transactions updated onto System:                 5
+File creation date : 12/01/2008
+
