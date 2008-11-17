@@ -1,8 +1,0 @@
- 985283H023047            300.00P04/01/2008
- 985314H023432            112.96P04/01/2008
-
-
-Total Amount Updated onto System:            412.96
-Total Transactions updated onto System:                 2
-File creation date : 05/01/2008
-

@@ -1,8 +1,0 @@
- 941114BCS-WES001           3.69P01/11/2007
- 040446DPMO001             62.03P01/11/2007
-
-
-Total Amount Updated onto System:             65.72
-Total Transactions updated onto System:                 2
-File creation date : 02/11/2007
-

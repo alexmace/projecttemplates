@@ -1,8 +1,0 @@
- 640886F001252             28.00P01/11/2007
- 640926F003921             30.00P01/11/2007
-
-
-Total Amount Updated onto System:             58.00
-Total Transactions updated onto System:                 2
-File creation date : 02/11/2007
-

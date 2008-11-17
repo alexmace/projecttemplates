@@ -1,9 +1,0 @@
- 882251LQSCAI001           13.14P03/11/2007
- 509790NM0027              14.53P03/11/2007
- 509991NW0032              57.80P03/11/2007
-
-
-Total Amount Updated onto System:             85.47
-Total Transactions updated onto System:                 3
-File creation date : 05/11/2007
-

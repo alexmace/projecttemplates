@@ -1,9 +1,0 @@
- 605062W015288             25.00P03/12/2007
- 605201W016853              5.00P03/12/2007
- 605677W022616              3.00P03/12/2007
-
-
-Total Amount Updated onto System:             33.00
-Total Transactions updated onto System:                 3
-File creation date : 04/12/2007
-

@@ -1,9 +1,0 @@
- 990381G254851              7.99P08/11/2007
- 990381G254851             70.00P08/11/2007
- 990538G266574            200.00P08/11/2007
-
-
-Total Amount Updated onto System:            277.99
-Total Transactions updated onto System:                 3
-File creation date : 09/11/2007
-

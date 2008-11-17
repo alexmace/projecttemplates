@@ -1,9 +1,0 @@
- 232940G075698            350.00P27/01/2008
- 232940G075698            150.00P27/01/2008
- 869835G084956            152.78P27/01/2008
-
-
-Total Amount Updated onto System:            652.78
-Total Transactions updated onto System:                 3
-File creation date : 28/01/2008
-

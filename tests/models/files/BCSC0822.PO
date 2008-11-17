@@ -1,8 +1,0 @@
- 941092BCS-CUT001           1.72P24/11/2007
- 245418DPMO002              4.46P24/11/2007
-
-
-Total Amount Updated onto System:              6.18
-Total Transactions updated onto System:                 2
-File creation date : 26/11/2007
-

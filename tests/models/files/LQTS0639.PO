@@ -1,8 +1,0 @@
- 990503G260193            120.00P01/12/2007
- 990513G260592            100.00P01/12/2007
-
-
-Total Amount Updated onto System:            220.00
-Total Transactions updated onto System:                 2
-File creation date : 03/12/2007
-

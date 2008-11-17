@@ -1,9 +1,0 @@
-9826903726244898315CAS020              82.52P20/11/2007
-9826903726244989890HYL001              30.00P20/11/2007
-9826903726245120156SAR025              90.00P20/11/2007
-
-
-Total Amount Updated onto System:            202.52
-Total Transactions updated onto System:                 3
-File creation date : 21/11/2007
-

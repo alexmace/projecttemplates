@@ -22,9 +22,6 @@ class IndexController extends Zend_Controller_Action
     public function indexAction( )
     {
 
-        // Pass all of the client codes to the view
-        $clientCodes = new ClientCodes( );
-        $this->view->clientCodes = $clientCodes->getStats( );
 
     }
 

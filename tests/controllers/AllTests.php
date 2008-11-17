@@ -10,7 +10,6 @@ if ( !defined( 'PHPUnit_MAIN_METHOD' ) )
 require_once( 'PHPUnit/Framework.php' );
 require_once( 'PHPUnit/TextUI/TestRunner.php' );
 require_once( 'controllers/AuthControllerTest.php' );
-require_once( 'controllers/DataControllerTest.php' );
 require_once( 'controllers/ErrorControllerTest.php' );
 require_once( 'controllers/IndexControllerTest.php' );
 
@@ -27,10 +26,9 @@ class Controllers_AllTests
     public static function suite( )
     {
 
-        $suite = new PHPUnit_Framework_TestSuite( 'Traction Controllers' );
+        $suite = new PHPUnit_Framework_TestSuite( 'Controllers' );
 
         $suite->addTestSuite( 'AuthControllerTest' );
-        $suite->addTestSuite( 'DataControllerTest' );
         $suite->addTestSuite( 'ErrorControllerTest' );
         $suite->addTestSuite( 'IndexControllerTest' );
 

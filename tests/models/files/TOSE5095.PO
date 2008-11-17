@@ -1,9 +1,0 @@
- 912035G121592            350.00P14/12/2007
- 912035G121592             50.00P14/12/2007
- 639998G208280             80.00P14/12/2007
-
-
-Total Amount Updated onto System:            480.00
-Total Transactions updated onto System:                 3
-File creation date : 15/12/2007
-

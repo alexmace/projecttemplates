@@ -1,9 +1,0 @@
- 800023G184357            350.00P22/12/2007
- 800023G184357             73.80P22/12/2007
- 908304L547492            120.00P22/12/2007
-
-
-Total Amount Updated onto System:            543.80
-Total Transactions updated onto System:                 3
-File creation date : 24/12/2007
-

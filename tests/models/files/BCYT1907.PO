@@ -1,9 +1,0 @@
- 589420H020613            150.00P27/12/2007
- 589420H020613            150.00P27/12/2007
- 589420H020613             55.00P27/12/2007
-
-
-Total Amount Updated onto System:            355.00
-Total Transactions updated onto System:                 3
-File creation date : 28/12/2007
-

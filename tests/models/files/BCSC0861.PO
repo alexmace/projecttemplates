@@ -1,8 +1,0 @@
- 941092BCS-CUT001           1.72P21/12/2007
- 941096BCS-GOD001           8.92P21/12/2007
-
-
-Total Amount Updated onto System:             10.64
-Total Transactions updated onto System:                 2
-File creation date : 22/12/2007
-

@@ -1,7 +1,0 @@
-9826903726244909963COS006             100.00T10/11/2007
-
-
-Total Amount Updated onto System:            100.00
-Total Transactions updated onto System:                 1
-File creation date : 12/11/2007
-

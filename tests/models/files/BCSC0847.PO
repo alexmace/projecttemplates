@@ -1,9 +1,0 @@
- 941085BCS-BOO001           3.40P11/12/2007
- 245414DPMC002             14.26P11/12/2007
- 245398DPST004              1.40P11/12/2007
-
-
-Total Amount Updated onto System:             19.06
-Total Transactions updated onto System:                 3
-File creation date : 12/12/2007
-

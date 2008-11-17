@@ -1,9 +1,0 @@
- 990388G256056             82.00P20/11/2007
- 103012G261700              5.00P19/11/2007
- 103042G262722             95.00P20/11/2007
-
-
-Total Amount Updated onto System:            182.00
-Total Transactions updated onto System:                 3
-File creation date : 21/11/2007
-

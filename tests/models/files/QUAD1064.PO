@@ -1,8 +1,0 @@
- 227922B023647            122.00P13/01/2008
- 157940B069043             10.00P13/01/2008
- 102304L031178             40.00P13/01/2008
-
-
-Total Amount Updated onto System:            172.00
-Total Transactions updated onto System:                 3
-

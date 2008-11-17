@@ -1,8 +1,0 @@
- 641051F017205             24.00P25/01/2008
- 641073F018376            100.00P25/01/2008
-
-
-Total Amount Updated onto System:            124.00
-Total Transactions updated onto System:                 2
-File creation date : 26/01/2008
-

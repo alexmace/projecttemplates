@@ -1,8 +1,0 @@
- 941085BCS-BOO001           3.40P15/01/2008
- 941109BCS-SHE001          14.26P15/01/2008
-
-
-Total Amount Updated onto System:             17.66
-Total Transactions updated onto System:                 2
-File creation date : 16/01/2008
-

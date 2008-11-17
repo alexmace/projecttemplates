@@ -1,7 +1,0 @@
- 105737G238848             20.00T29/11/2007
-
-
-Total Amount Updated onto System:             20.00
-Total Transactions updated onto System:                 1
-File creation date : 30/11/2007
-

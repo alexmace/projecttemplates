@@ -1,7 +1,0 @@
- 641182F025542             50.00T22/01/2008
-
-
-Total Amount Updated onto System:             50.00
-Total Transactions updated onto System:                 1
-File creation date : 23/01/2008
-

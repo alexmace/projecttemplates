@@ -7,61 +7,15 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="/styles/main.css" type="text/css" rel="stylesheet" />
     <?php echo $this->headLink( ) ?>
-    <title>Argonaut21 Traction</title>
+    <title>WMDev Project Shell</title>
     <script type="text/javascript" src="/scripts/mootools-1.2-core-yc.js"></script>
     <script type="text/javascript" src="/scripts/mootools-1.2-more.js"></script>
-    <script type="text/javascript" src="/scripts/traction.js"></script>
-    <script type="text/javascript">
-    
-        window.addEvent( 'domready', function( ) {
-        
-            var clearLink = $( 'clear' );
-            
-            clearLink.addEvent( 'click', function( e ) {
-            
-                e = new Event( e );
-            
-                // Show alert box, only continue if the user clicks ok.
-                var confirmation = confirm( 'Are you sure? This will delete '
-                                          + 'all the data in the system! Click '
-                                          + '"OK" to confirm.' );
-                                          
-                if ( !confirmation )
-                {
-                
-                    e.stop( );
-                
-                }
-            
-            } );
-        
-        } );
-    
-    </script>
     <?php echo $this->headScript( ) ?>
-
   </head>
 
   <body>
 
-    <div id="page">
-
-      <div id="header">
-
-        <ul id="account_links">
-          <li><a href="/">Home</a></li>
-          <li><a href="/data/import">Import Data</a></li>
-          <li><a href="/data/status">Import Status</a></li>
-          <li><a href="/data/stats">Payment File Statistics</a></li>
-          <li><a href="/data/clear" id="clear">Clear Data</a></li>
-          <li><a href="/auth/logout">Log Out</a></li>
-        </ul>
-
-      </div>
-
-      <?php echo $this->layout( )->content ?>
-
-    </div>
+    <?php echo $this->layout( )->content ?>
 
   </body>
 

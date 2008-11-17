@@ -1,9 +1,0 @@
- 495776G088820             10.00P08/11/2007
- 141327G181030             50.00P08/11/2007
- 714907G211796            350.00P08/11/2007
-
-
-Total Amount Updated onto System:            410.00
-Total Transactions updated onto System:                 3
-File creation date : 09/11/2007
-

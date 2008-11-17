@@ -1,8 +1,0 @@
- 985321H020927             75.00P27/12/2007
- 985314H023432            112.96P27/12/2007
-
-
-Total Amount Updated onto System:            187.96
-Total Transactions updated onto System:                 2
-File creation date : 28/12/2007
-

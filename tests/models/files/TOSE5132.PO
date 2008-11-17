@@ -1,9 +1,0 @@
- 748134G181820             80.00P04/01/2008
- 445185G202150             40.00P04/01/2008
- 912532L853151             80.00P04/01/2008
-
-
-Total Amount Updated onto System:            200.00
-Total Transactions updated onto System:                 3
-File creation date : 05/01/2008
-

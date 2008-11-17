@@ -1,8 +1,0 @@
-9826903726244958077GOD001             130.00P28/12/2007
-9826903726244989890HYL001              30.00P28/12/2007
-
-
-Total Amount Updated onto System:            160.00
-Total Transactions updated onto System:                 2
-File creation date : 29/12/2007
-

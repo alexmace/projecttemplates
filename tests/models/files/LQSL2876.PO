@@ -1,9 +1,0 @@
- 825515LQS - DRE003        20.00P08/01/2008
- 509790NM0027              14.53P08/01/2008
- 509989NW0030              14.53P08/01/2008
-
-
-Total Amount Updated onto System:             49.06
-Total Transactions updated onto System:                 3
-File creation date : 09/01/2008
-

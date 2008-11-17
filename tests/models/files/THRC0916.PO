@@ -1,9 +1,0 @@
-9826903726244966419HAD001             100.00P09/11/2007
-9826903726245034159MAR015              20.00P09/11/2007
-9826903726245038143MAT008              10.00P09/11/2007
-
-
-Total Amount Updated onto System:            130.00
-Total Transactions updated onto System:                 3
-File creation date : 10/11/2007
-

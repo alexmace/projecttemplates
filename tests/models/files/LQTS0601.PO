@@ -1,9 +1,0 @@
- 990516G260665            350.00P13/11/2007
- 990516G260665            105.10P13/11/2007
- 990534G261424            100.00P13/11/2007
-
-
-Total Amount Updated onto System:            555.10
-Total Transactions updated onto System:                 3
-File creation date : 14/11/2007
-

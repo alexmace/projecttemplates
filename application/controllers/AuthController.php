@@ -15,7 +15,7 @@ class AuthController extends Zend_Controller_Action
     public function loginAction( )
     {
 
-        $form = new Traction_Form_Login( );
+        $form = new WMDev_Form_Login( );
 
         // Form has been submitted, so process the contents.
         if ( ( !$this->getRequest( )->isPost( ) ) ||

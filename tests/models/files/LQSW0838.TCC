@@ -1,7 +1,0 @@
- 913422L903655            300.00N23/01/2008
-
-
-Total Amount Updated onto System:            300.00
-Total Transactions updated onto System:                 1
-File creation date : 24/01/2008
-

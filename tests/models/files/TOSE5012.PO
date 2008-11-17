@@ -1,8 +1,0 @@
- 556062G093220            150.00P03/11/2007
- 556062G093220             50.00P03/11/2007
-
-
-Total Amount Updated onto System:            200.00
-Total Transactions updated onto System:                 2
-File creation date : 05/11/2007
-

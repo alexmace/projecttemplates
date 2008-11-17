@@ -1,9 +1,0 @@
- 031090G112186            150.00P03/11/2007
- 031090G112186            150.00P03/11/2007
- 031090G112186             80.00P03/11/2007
-
-
-Total Amount Updated onto System:            380.00
-Total Transactions updated onto System:                 3
-File creation date : 05/11/2007
-
